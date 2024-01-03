@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T04:09:14.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" version="22.1.16" etag="y5Hq35mmUk28rmJln9QL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T05:05:58.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="biDNE9thVzcwxoePHUU_" version="22.1.16" type="github">
   <diagram name="Page-1" id="lfiG4YUK4RrEmJoFa6z7">
-    <mxGraphModel>
+    <mxGraphModel dx="1939" dy="1191" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="184" width="53" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-496" y="-7" width="57" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/crime-and-security-24/64/36-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-472" y="-1" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-234" y="-22" width="40.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/crime-and-security-24/64/36-128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-223" y="-1" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AX1FQ8XLD_xJSGHUXn4Q-3" target="AX1FQ8XLD_xJSGHUXn4Q-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-182" y="314" as="sourcePoint" />
+            <mxPoint x="-132" y="264" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-339" y="98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AX1FQ8XLD_xJSGHUXn4Q-5" target="AX1FQ8XLD_xJSGHUXn4Q-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-462" y="58" as="sourcePoint" />
+            <mxPoint x="-329" y="158" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-339" y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-10" value="Malware via share" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-248.5" y="65" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-11" value="Malware via email" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-517.5" y="65" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-13" value="Infected PC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-294" y="198.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-182" y="302" as="sourcePoint" />
+            <mxPoint x="-339" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AX1FQ8XLD_xJSGHUXn4Q-16" value="&lt;div&gt;Monitored by&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Endpoint Detection and Response&lt;/li&gt;&lt;li&gt;Data Loss Prevention&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-174" y="256" width="219" height="102" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
